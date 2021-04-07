@@ -6,7 +6,7 @@ The goal is to build a robot with common sense & the ability to generalize to an
 
 ## How 
 
-The following are generated images using Python 3 & various libraries like `matplotlib`, `networkx`, ...
+The following are generated images using `Python 3` & `C` & various libraries like `matplotlib`, `networkx`, ...
 The VCC robotic arm is coded using https://robosuite.ai
 
 ## Visualizations of general intelligence models
