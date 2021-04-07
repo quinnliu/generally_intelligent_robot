@@ -78,6 +78,14 @@ optimal perturb factor?
 optimal max_lateral_connection_pixel_length?
 optimal tolerance?
 
+#### cross channel pooling visualization
+
+#### channel_offset = 1 factor = 1
+![label=0_i=0_num_oriented_edge_features=16](https://user-images.githubusercontent.com/2585159/111821772-0afeed00-88b1-11eb-8cd5-7a7111c0c2a9.png)
+
+#### channel_offset = 2 factor = 2
+![label=0_i=0_num_oriented_edge_features=16](https://user-images.githubusercontent.com/2585159/111821811-1520eb80-88b1-11eb-9cb2-33f0c5d55a60.png)
+
 ### Visualizations of VCC 2D 
 #### Virtual environment with robotic arm & multiple camera point of view data to implement visual cognitive computer (VCC) architecture
 
