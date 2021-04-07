@@ -7,6 +7,7 @@ The goal is to build a robot with common sense & the ability to generalize to an
 ## How 
 
 The following are generated images using Python 3 & various libraries like `matplotlib`, `networkx`, ...
+The VCC robotic arm is coded using https://robosuite.ai
 
 ## Visualizations of general intelligence models
 
@@ -32,7 +33,10 @@ The following are generated images using Python 3 & various libraries like `matp
 
 ![filter_scale=4 0_num_oriented_edge_features=16_display= 0c15,0c13,0c13 =](https://user-images.githubusercontent.com/2585159/111102561-63816380-851a-11eb-8fb3-80735c3814d1.png)
 
+### Visualizations of VCC 2D 
+#### Virtual environment with robotic arm & multiple camera point of view data to implement visual cognitive computer (VCC) architecture
 
+![Screen Shot 2021-03-09 at 10 37 20 AM](https://user-images.githubusercontent.com/2585159/110505148-7da6e600-80c3-11eb-822c-6ea18befdc6f.png)
 
 ### Visualizations of VCC 3D with recursive calls 
 
